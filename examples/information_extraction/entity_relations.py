@@ -17,6 +17,11 @@ import spacy
 TEXTS = [
     'Net income was $9.4 million compared to the prior year of $2.7 million.',
     'Revenue exceeded twelve billion dollars, with a loss of $1b.',
+    'Net revenue for CEC was flat at $1.0 billion. On a same-store basis, which excludes the recently deconsolidated Horseshoe Baltimore from both years, net revenue was up 3.8% to $939 million, driven by strong gaming volume, hotel performance, and incremental revenues from operational initiatives.',
+    'Net loss for CEC, before adjusting for noncontrolling interest, was $460 million, driven by an adjustment of $472 million to the restructuring of CEOC.',
+    'Income from operations for CEC improved $130 million year-over-year to $86 million, representing an operating margin of 8.7%, due to accelerated stock based compensation of $145 million associated with the sale of the CIE social and mobile games business in the third quarter of 2016.',
+    'Adjusted EBITDA for CEC improved $34 million, 12.6% year-over-year to $303 million, driving margins up 345 basis points to 30.7%. On a same-store basis, adjusted EBITDA improved $44 million, 17.7%, lifting margins 369 basis points to 31.2%.',
+    'Repriced and refinanced debt through Q3 2017 that will reduce total annual interest expense by $270 million.'
 ]
 
 
